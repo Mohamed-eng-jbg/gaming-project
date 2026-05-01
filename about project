@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+<head>
+    <title>About Us - Gaming Website</title>
+    <style>
+        body {font-family: Arial, sans-serif; background-color: rgb(17, 20, 25); color: white;margin: 0; padding: 50px; text-align: center;}
+        .container { background-color: rgb(13, 46, 78);padding: 30px; border-radius: 15px; max-width: 800px;margin: auto; box-shadow: 0 10px 30px rgba(0,0,0,0.5);}
+        h1 { color: #66c0f4; } </style>
+</head>
+<body>
+    <div class="container">
+        <h1>About Our Project</h1>
+        <p>This is a gaming website project created to showcase the best games on Steam.</p>
+        <p>Our team worked hard to collect the best titles in Fighting, Action, Indie, and Sports games.</p>
+        
+        <h3>The Development Team:</h3>
+        <ul style="list-style: none; padding: 0;">
+            <li>Mohamed Ahmed Awaad</li>
+            <li>Mohamed Osama Farag</li>
+            <li>Mohamed Ibrahim Atia</li>
+        </ul>
+
+        <a href="project" class="back-btn">Back to Home</a>
+    </div>
+</body>
+</html>

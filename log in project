@@ -1,0 +1,30 @@
+<!doctype html><html>
+<head>
+    <title>log in_gaming website</title>
+   <style>
+body {font-family:Lato, sans-serif;background-color: rgb(17, 20, 25);color:aliceblue;display: flex;justify-content: center;align-items: center;}
+.login-card {background-color: rgb(13, 46, 78);padding: 100px;border-radius: 15px;box-shadow:(0, 0, 0, 0.5) ;width:450;text-align: center;}
+h1{margin-bottom: 30px;color: aliceblue;}
+.input-group{text-align: left;}
+  label{display: block;margin-bottom: 10px;}
+   </style>
+</head>
+    <body><div class="login-card"><form action="project">
+<h1>LOG IN</h1>
+  <div class="input-group">
+    <label for="user name">user name</label>
+    <input type="text" id="username" name="user name" required><br><br>
+  </div>
+   <div class="input-group">
+      <label for="password">password</label>
+       <input type="password" id="password" name="password" required><br><br>
+    </div>
+
+         <p>Gender:</p>
+        <input type="radio" name="gender" value="male" id="male" required>
+        <label for="male">Male</label>
+        <input type="radio" name="gender" value="female" id="female" required>
+        <label for="female">Female</label>
+    <input type="submit" value="Log In">
+   </form> </div>
+</body>

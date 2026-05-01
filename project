@@ -1,0 +1,50 @@
+<!doctype html><html>
+<head>
+    <style> .header{background-color: black; color: white; padding: 20px;margin:30px ;display: flex;justify-content: space-between;align-items: center;padding-right: 50px;}
+   .game{background-color: rgb(0, 0, 0); color: rgb(255, 255, 255) ;display: flex;justify-content: space-between;align-items: center;padding: 30px;}
+   .final{background-color: rgb(0, 0, 0);color: rgb(255, 255, 255);align-items:center;padding: 30px;display:flex;gap:30px }
+   .team{background-color: rgb(0, 0, 0);color: rgb(255, 247, 0);align-items: center;justify-content: center;text-align: center;}
+   .store{background-color: rgb(0, 0, 0);color: rgb(255, 0, 0);align-items: center;justify-content: center;text-align: center;}
+body {background-color:rgb(17, 20, 25) ;}
+   </style>
+    <title>gaming website</title>
+</head>
+<body>
+   <div class=header><img src="https://store.fastly.steamstatic.com/public/shared/images/header/logo_steam.svg?t=962016">
+    <div><h1>THE BEST GAMING WEBSITE</h1></div>
+    <a href="about project" style="color: white; text-decoration: none; font-size: 18px;">About</a>
+    </div>
+   <div class=game>
+<p><h2>steam is one of the best gaming websites ever you can find various games and updates every day</h2></p>
+</div>
+<div class="final">
+<img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1462040/header.jpg?t=1773895755"width=300px>
+<p><h3> you can find fighting games like final fantasy</h3></p>
+</div>
+<div class="final">
+<img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2357570/1f84e73b8095ab9f40b1bc2c81845330979afc09/header_alt_assets_20.jpg?t=1776189843"width=300px>
+<p><h3>there are free games like over watch</h3></p></div>
+<div class="final">
+<img src="https://shared.fastly.steamstatic.com//store_item_assets/steam/apps/3357650/341da3fa5338fad44ae87b2d14edfe6be80ff4c3/capsule_616x353.jpg?t=1777351016"width=300px>
+<p><h3>if you like action games you would like pragmata</h3></p>
+</div>
+<div class="final">
+    <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/367520/3c3489495136b26b34f8a9543c7f5645b99d388c/header.jpg?t=1776125684"width=300px>
+<p><h3>if you like indie games there is hollow knight</h3></p>
+</div>
+<div class="final">
+    <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3405690/2d96aa1b06e453cd62dae9029d412f19e61932c3/header.jpg?t=1777414590"width=300px>
+<p><h3>and there is football </h3></p>
+</div>
+<div class="team">
+<h2>project done by</h2>
+<h4>mohamed ahmed awaad</h4>
+<h4>mohamed osama farag</h4>
+<h4>mohamed ibrahim atia</h4>
+</div>
+<div class="store">
+    <a href="https://store.steampowered.com/">Visit Steam Store</a>
+</div>
+</div>
+</body>
+</html>
